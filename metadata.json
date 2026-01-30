@@ -1,0 +1,8 @@
+{
+  "name": "Vyapaar AI",
+  "description": "An AI-powered accounting and business management app for small businesses. Features bilingual Hindi-English UI, AI Voice Assistant for ledger entries, and intelligent bill scanning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
